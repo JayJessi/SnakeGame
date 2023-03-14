@@ -1,0 +1,1 @@
+module Snake {exports ddf.minim;exports ddf.minim.effects;exports ddf.minim.tests;exports ddf.minim.signals;exports Snake;exports hdm.shared;exports ddf.minim.spi;exports ddf.minim.javasound;exports ddf.minim.ugens;exports ddf.minim.analysis;requires core;requires java.desktop;requires jl1.0.1;requires jsminim;requires minim;requires mp3spi1.9.5;requires tritonus.share;}
